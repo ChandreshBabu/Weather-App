@@ -32,7 +32,7 @@ app.get('',(req,res)=>{
 app.get('/about',(req,res)=>{
     res.render('about',{
         title:'About',
-        name:'Anand Singh Yadav'
+        name:'Chandresh Babu'
     });
 })
 
